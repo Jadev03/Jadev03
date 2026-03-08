@@ -102,6 +102,6 @@
 # 🤝 Connect With Me
 
 <p>
-<a href="https://github.com/Jadev03"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="www.linkedin.com/in/sathiendra-thabendra-0467682b2"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/Jadev03" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/sathiendra-thabendra-0467682b2" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 </p>
