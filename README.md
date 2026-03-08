@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sathiendra Thabendra</h1>
-<h3 align="center">Full-Stack Developer | Spring Boot • Node.js • React | Microservices | Open Source | CSE @ UoM</h3>
+<h3 align="center">Full-Stack Developer | Spring Boot • Node.js • React | CSE @ University of Moratuwa</h3>
 
 ---
 
 ## 🚀 About Me
-- 💻 Backend developer using **Spring Boot & Node js**
-- ⚙️ Interested in **Microservices Architecture**
-- 📦 Building **large-scale video upload & encoding systems**
-- 🌍 Open Source Contributor
-- 📫 Reach me: sathiendrathabendra@gmail.com
+- 💻 **Full-stack developer** — backend with **Spring Boot & Node.js**, frontend with **React**
+- 🎓 **Computer Science & Engineering** undergraduate from University of Moratuwa, eager to grow in software development
+- 🌍 **Open source contributor** — comfortable with real codebases, code reviews, and collaborative workflows
+- 📫 **Reach me:** sathiendrathabendra@gmail.com
 
 # 🛠️ Languages
 
@@ -34,6 +33,14 @@
 
 ---
 
+# 📬 Cache & Message Brokers
+
+<p>
+<img src="https://skillicons.dev/icons?i=redis" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</p>
+
+---
 
 # ☁️ Cloud & DevOps
 
@@ -90,15 +97,11 @@
 
 ---
 
-# 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadev03&layout=compact&theme=tokyonight)
-
----
 
 # 🤝 Connect With Me
 
 <p>
 <a href="https://github.com/Jadev03"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="www.linkedin.com/in/sathiendra-thabendra-0467682b2"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
