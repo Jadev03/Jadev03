@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathiendra Thabendra</h1>
-<h3 align="center">Full-Stack Developer | Spring Boot • Node.js • React | CSE @ University of Moratuwa</h3>
+
 
 ---
 
