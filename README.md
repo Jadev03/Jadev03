@@ -4,9 +4,9 @@
 ---
 
 ## 🚀 About Me
-- 💻 **Full-stack developer** — backend with **Spring Boot & Node.js**, frontend with **React**
+- 💻 **Full-stack developer**  backend with **Spring Boot & Node.js**, frontend with **React**
 - 🎓 **Computer Science & Engineering** undergraduate from University of Moratuwa, eager to grow in software development
-- 🌍 **Open source contributor** — comfortable with real codebases, code reviews, and collaborative workflows
+- 🌍 **Open source contributor**  comfortable with real codebases, code reviews, and collaborative workflows
 - 📫 **Reach me:** sathiendrathabendra@gmail.com
 
 # 🛠️ Languages
